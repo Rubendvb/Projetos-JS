@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(69, 165, 255, 0.897);
+    
+}
+
+h1 {
+    color: rgb(211, 255, 213);
+    font: 800 30pt Arial;
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+}
+
+div {
+    margin-right: 10px;
+}
